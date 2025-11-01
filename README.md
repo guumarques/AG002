@@ -75,12 +75,14 @@ git clone https://github.com/guumarques/AG002.git
 ### Classificação Interativa
 Execute o código e insira as medidas quando solicitado:
 
+```bash
 Comprimento da sépala (cm): 5.1
 Largura da sépala (cm): 3.5
 Comprimento da pétala (cm): 1.4
 Largura da pétala (cm): 0.2
 
 RESULTADO: A amostra pertence à espécie: setosa
+```
 
 
 ### Exemplo de Uso Programático
