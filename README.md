@@ -83,12 +83,3 @@ Largura da pétala (cm): 0.2
 
 RESULTADO: A amostra pertence à espécie: setosa
 ```
-
-
-### Exemplo de Uso Programático
-```python
-# Classificar uma nova amostra
-nova_flor = [[5.1, 3.5, 1.4, 0.2]]
-especie = modelo.predict(nova_flor)[0]
-print(f"Espécie: {especie}")  # Output: 1 (setosa)
-```
