@@ -65,7 +65,7 @@ git clone https://github.com/guumarques/AG002.git
 
 ### 3. Modelo KNN
 - Algoritmo: K-Nearest Neighbors
-- Parâmetro: k=3 vizinhos
+- Parâmetro: k=5 vizinhos
 - Métrica de distância: Euclidiana
 
 ### 4. Avaliação
