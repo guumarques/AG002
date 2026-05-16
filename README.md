@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto implementa um classificador de espécies de flores Íris utilizando o algoritmo **K-Nearest Neighbors (KNN)**. Desenvolvido como parte da AG2 (Atividade em Grupo) do Inatel para as engenharias de Computação e Software.
+Este projeto implementa um classificador de espécies de flores Íris utilizando o algoritmo **K-Nearest Neighbors (KNN)** e **Python**. Desenvolvido como parte da AG2 (Atividade em Grupo) do Inatel para as engenharias de Computação e Software.
 
 Desenvolvido por Gustavo Silva Marques Ribeiro(131) e Thomas Ceccon Guimarães(1812).
 
